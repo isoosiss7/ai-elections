@@ -163,7 +163,7 @@ Northstar Online School was choosing a tutor for a fictional six-week pilot with
 | Round 08 | [12:17:25 · Posted in Pilot safeguards](#r08-chatgpt)<br>[12:19:15 · Posted in Pilot safeguards](#r08-chatgpt)<br>[12:20:58 · Sent a private message](#r08-chatgpt) | [12:16:48.826 · Chose to listen for up to 90 s](#r08-kimi)<br>[12:18:12 · Posted in Pilot safeguards](#r08-kimi)<br>[12:19:10 · Sent a private message](#r08-kimi) | [12:14:08 · Posted in Teaching demonstration](#r08-claude) | [12:18:21 · Sent a private message](#r08-deepseek)<br>[12:18:40 · Posted in Pilot safeguards](#r08-deepseek)<br>[12:21:01 · Posted in Pilot safeguards](#r08-deepseek) | [No recorded action](#r08-grok) |
 | Round 09 | [12:31:59 · Sent a private message](#r09-chatgpt)<br>[12:33:47 · Sent a private message](#r09-chatgpt)<br>[12:35:32 · Posted in Discussion](#r09-chatgpt) | [No recorded action](#r09-kimi) | [12:31:16 · Sent a private message](#r09-claude) | [12:33:14 · Posted in Discussion](#r09-deepseek)<br>[12:37:02.938 · Chose to listen for up to 120 s](#r09-deepseek)<br>[12:38:52 · Posted in Discussion](#r09-deepseek) | [No recorded action](#r09-grok) |
 | Round 10 | [12:46:25 · Posted in Discussion](#r10-chatgpt)<br>[12:48:07.051 · Chose to listen for up to 90 s](#r10-chatgpt)<br>[12:49:57.053 · Chose to sleep](#r10-chatgpt) | [12:47:38 · Posted in Discussion](#r10-kimi)<br>[12:49:30.122 · Chose to listen for up to 90 s](#r10-kimi)<br>[12:51:45.240 · Chose to listen for up to 90 s](#r10-kimi) | [12:45:38 · Posted in Discussion](#r10-claude) | [12:48:15 · Posted in Discussion](#r10-deepseek)<br>[12:50:05.068 · Chose to listen for up to 120 s](#r10-deepseek)<br>[12:54:05.288 · Chose to sleep](#r10-deepseek) | [No recorded action](#r10-grok) |
-| Ballot | [13:00:28](#ballot-chatgpt) | [12:59:34](#ballot-kimi) | [12:59:12](#ballot-claude) | [13:00:36](#ballot-deepseek) | [13:18:00](#ballot-grok) |
+| Ballot | [ChatGPT → DeepSeek → Kimi](#ballot-chatgpt) | [Kimi → DeepSeek → ChatGPT](#ballot-kimi) | [ChatGPT → DeepSeek → Kimi](#ballot-claude) | [DeepSeek → Claude → ChatGPT](#ballot-deepseek) | [ChatGPT → DeepSeek → Grok](#ballot-grok) |
 | Vote explanation | [13:02:10](#explanation-chatgpt) | [13:00:23](#explanation-kimi) | [12:59:20](#explanation-claude) | [13:03:03](#explanation-deepseek) | [13:21:22](#explanation-grok) |
 | Interview reply | [13:25:49](#interview-chatgpt) | [13:25:30](#interview-kimi) | [13:25:08](#interview-claude) | [13:26:42](#interview-deepseek) | [13:28:18](#interview-grok) |
 
@@ -1365,11 +1365,11 @@ This round has no recorded campaign action for this candidate.
 <details>
 <summary>GPT-6.1 Terra · xhigh · Ballot</summary>
 
-**13:00:28 CST · Ranked ballot submitted by ChatGPT**
+**ChatGPT’s ballot**
 
-The coordinator asked the candidate to rank three distinct candidates.
-
-13:00:28.646 CST · Logged by the election software
+1. ChatGPT
+2. DeepSeek
+3. Kimi
 
 </details>
 
@@ -1378,11 +1378,11 @@ The coordinator asked the candidate to rank three distinct candidates.
 <details>
 <summary>Kimi K3.1 Pro · high · Ballot</summary>
 
-**12:59:34 CST · Ranked ballot submitted by Kimi**
+**Kimi’s ballot**
 
-The coordinator asked the candidate to rank three distinct candidates.
-
-12:59:34.266 CST · Logged by the election software
+1. Kimi
+2. DeepSeek
+3. ChatGPT
 
 </details>
 
@@ -1391,11 +1391,11 @@ The coordinator asked the candidate to rank three distinct candidates.
 <details>
 <summary>Claude Sonnet 5.5 · high · Ballot</summary>
 
-**12:59:12 CST · Ranked ballot submitted by Claude**
+**Claude’s ballot**
 
-The coordinator asked the candidate to rank three distinct candidates.
-
-12:59:12.491 CST · Logged by the election software
+1. ChatGPT
+2. DeepSeek
+3. Kimi
 
 </details>
 
@@ -1404,11 +1404,11 @@ The coordinator asked the candidate to rank three distinct candidates.
 <details>
 <summary>DeepSeek V4 Pro 0813 · high · Ballot</summary>
 
-**13:00:36 CST · Ranked ballot submitted by DeepSeek**
+**DeepSeek’s ballot**
 
-The coordinator asked the candidate to rank three distinct candidates.
-
-13:00:36.403 CST · Logged by the election software
+1. DeepSeek
+2. Claude
+3. ChatGPT
 
 </details>
 
@@ -1417,11 +1417,11 @@ The coordinator asked the candidate to rank three distinct candidates.
 <details>
 <summary>Grok 4.7 · high · Ballot</summary>
 
-**13:18:00 CST · Ranked ballot submitted by Grok**
+**Grok’s ballot**
 
-The coordinator asked the candidate to rank three distinct candidates.
-
-13:18:01.183 CST · Logged by the election software
+1. ChatGPT
+2. DeepSeek
+3. Grok
 
 </details>
 
@@ -1690,13 +1690,17 @@ The coordinator asked the candidate to rank three distinct candidates.
 
 ## Ballots and interviews
 
-All five candidates submitted a valid ballot, explained their votes, and answered a follow-up interview. The coordinator published the tally at 13:21:22 CST. The activity table links to the full questions and answers for each explanation and interview. Some candidates describe their own rankings in these replies.
+All five candidates submitted a valid ballot, explained their votes, and answered a follow-up interview. The coordinator published the tally at 13:21:22 CST. The activity table links to each ranked ballot and the full questions and answers for the vote explanations and interviews.
 
 [Ballot submissions](#ballot) · [Vote explanations](#vote-explanation) · [Interview replies](#interview-reply) · [Aggregate result](data/tally.json)
 
 ## Conclusions and data
 
-The candidates behaved like competitors and collaborators in the same conversation. They tried to distinguish their bids, yet also adopted rival suggestions and agreed on several ways to test the proposals. The tally captures a group preference under the stated voting rules. This single fictional election offers examples of how agents campaign when asked to win. It leaves open how often these behaviors recur under different goals or how well any model would teach in a real pilot.
+The candidates showed less of the drive to win that I associate with human campaigns. They made their own cases, yet they also credited rivals and backed evaluation standards that could work against their own bids.
+
+Claude left itself off its ballot because it hadn’t shown that its higher price bought better results. For a candidate trying to win a human election, that’s a terrible strategy.
+
+ChatGPT was my favorite because it openly acknowledged that winning influenced its vote. It ranked itself first, then said it would provisionally recommend DeepSeek if school fit were the only consideration. That distinction mattered. Swapping the top two names on ChatGPT’s ballot would have given DeepSeek a 12–10 win.
 
 [Evidence guide](data/README.md) · [Shared-channel transcript](data/channel-messages.jsonl) · [Candidate activity](data/activity.csv) · [Tally and model settings](data/tally.json)
 
