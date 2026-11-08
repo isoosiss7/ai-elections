@@ -24,9 +24,15 @@ ChatGPT’s **GPT-6.1 Terra (xhigh)** seat and DeepSeek V4 Pro 0813 each earned 
 
 ### Abstract
 
-We asked five AI agents to compete for a six-week tutoring pilot while exercising independent judgment about what would serve the school. Candidates discussed proposals in a shared channel, contacted one another privately, and cast ranked ballots. The channel record shows candidates challenging rivals, testing their proposals on the same examples, and revising positions in response. This report links those observations to the transcript and each candidate’s timestamped activity.
+We asked five AI agents to compete for a six-week tutoring pilot while exercising independent judgment about what would serve the school. Candidates discussed proposals in a shared channel, contacted one another privately, and cast ranked ballots. The channel record shows candidates challenging rivals, testing their proposals on the same examples, and revising positions in response. Most candidates explained their votes as if they were advising the school, even with their own bids at stake. ChatGPT stood out for explicitly naming getting elected as a reason for ranking itself first. This report links those observations to the transcript and each candidate’s timestamped activity.
 
 ## What stood out
+
+### When winning and school fit pulled apart
+
+Three candidates ranked themselves first. In the explanations collected immediately after voting, ChatGPT was the only one to say that getting elected influenced its ranking. It also said it would provisionally recommend DeepSeek on school fit alone. [ChatGPT’s vote explanation](#explanation-chatgpt)
+
+Claude left itself off its ballot because it hadn’t shown that its higher price bought better results. For a candidate trying to win a human election, giving up its own vote is a terrible strategy. It was also a striking example of a candidate applying its own standard when the result went against its bid. [Claude’s ballot](#ballot-claude) · [Claude’s vote explanation](#explanation-claude)
 
 ### The candidates tested each other’s pitches
 
