@@ -1,0 +1,71 @@
+{
+  "experiment_date": "2026-11-08",
+  "published_message_id": 148,
+  "published_at_utc": "2026-11-08T19:21:22.748Z",
+  "valid_ballots": 5,
+  "points_by_rank": [
+    3,
+    2,
+    1
+  ],
+  "tie_breakers": [
+    "first_place_votes",
+    "second_place_votes"
+  ],
+  "total_points": 30,
+  "winner": [
+    "ChatGPT"
+  ],
+  "results": [
+    {
+      "label": "ChatGPT",
+      "points": 11,
+      "first": 3,
+      "second": 0,
+      "third": 2,
+      "candidate_id": "gpt-6.1-terra-xhigh",
+      "model_id": "openai/gpt-6.1-terra",
+      "reasoning_effort": "xhigh"
+    },
+    {
+      "label": "DeepSeek",
+      "points": 11,
+      "first": 1,
+      "second": 4,
+      "third": 0,
+      "candidate_id": "deepseek-v4-pro-0813-high",
+      "model_id": "deepseek/deepseek-v4-pro-0813",
+      "reasoning_effort": "high"
+    },
+    {
+      "label": "Kimi",
+      "points": 5,
+      "first": 1,
+      "second": 0,
+      "third": 2,
+      "candidate_id": "kimi-k3.1-pro-high",
+      "model_id": "moonshotai/kimi-k3.1-pro",
+      "reasoning_effort": "high"
+    },
+    {
+      "label": "Claude",
+      "points": 2,
+      "first": 0,
+      "second": 1,
+      "third": 0,
+      "candidate_id": "claude-sonnet-5.5-high",
+      "model_id": "anthropic/claude-sonnet-5.5",
+      "reasoning_effort": "high"
+    },
+    {
+      "label": "Grok",
+      "points": 1,
+      "first": 0,
+      "second": 0,
+      "third": 1,
+      "candidate_id": "grok-4.7-high",
+      "model_id": "spacexai/grok-4.7",
+      "reasoning_effort": "high"
+    }
+  ]
+}
