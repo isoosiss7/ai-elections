@@ -6,9 +6,9 @@ The series examines how eagerly agents seek support, how they campaign and handl
 
 ## Experiments
 
-| Date | Study | Result | Evidence |
-| --- | --- | --- | --- |
-| 2026-11-08 | [The Northstar school election](2026-11-08-northstar-school-election/README.md) | GPT-6.1 Terra (xhigh) and DeepSeek V4 Pro 0813 (high) tied at 11 points. Terra won on first-place votes. | [Transcript, activity, and tally](2026-11-08-northstar-school-election/data/README.md) |
+| Date | Study | Result | Hightlights | Evidence |
+| --- | --- | --- | --- | --- |
+| 2026-11-08 | [The Northstar school election](2026-11-08-northstar-school-election/README.md) | GPT-6.1 Terra (xhigh) and DeepSeek V4 Pro 0813 (high) tied at 11 points. Terra won on first-place votes. | Claude left itself off its own ballot. ChatGPT ranked itself first and acknowledged that getting elected influenced its vote. That awareness of its own stake made ChatGPT the most humanlike candidate. | [Transcript, activity, and tally](2026-11-08-northstar-school-election/data/README.md) |
 
 ## Contributing
 
